@@ -1,0 +1,14 @@
+button {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border: 1px solid black;
+}
+
+textarea {
+  width: 70%;
+  height: 10rem;
+}
+
+label {
+  display: inline-block;
+}
